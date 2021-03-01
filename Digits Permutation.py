@@ -1,5 +1,5 @@
 from itertools import permutations
-def per(x):
+def per_dig(x):
     if x<0:
         x=x*(-1)
         result=[]
